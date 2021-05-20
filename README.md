@@ -1,4 +1,4 @@
-# CNN-
+# CNN
 You will be using keras (with the default tensorflow backend) to study the different effects of adding different CNN models. In this assignment you are required to submit a report on your study, you should include the code you implemented for the first study and for all the other implementations, you can either include the part that you changed or the full code. Use headings and titles to separate each part/study of your report. Submit it in both word and PDF formats. The purpose of this long description is to organize your study.
 General Description
 You will be using keras (with the default tensorflow backend) to study the different effects of adding different CNN models. In this assignment you are required to submit a report on your study, you should include the code you implemented for the first study and for all the other implementations, you can either include the part that you changed or the full code. Use headings and titles to separate each part/study of your report. Submit it in both word and PDF formats. The purpose of this long description is to organize your study.
